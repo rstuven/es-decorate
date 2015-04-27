@@ -1,0 +1,26 @@
+{
+  "name": "es-decorate",
+  "version": "1.0.0",
+  "description": "ES7 decorators for CoffeeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rstuven/es-decorate.git"
+  },
+  "keywords": [
+    "ecmascript",
+    "javascript",
+    "typescript",
+    "coffeescript",
+    "decorators"
+  ],
+  "author": "Ricardo Stuven <rstuven@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rstuven/es-decorate/issues"
+  },
+  "homepage": "https://github.com/rstuven/es-decorate"
+}
